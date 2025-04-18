@@ -22,6 +22,6 @@ After comparing the performance of all models, the **Random Forest Classifier** 
 ## 🛠️ Technologies Used
 
 - Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
+- Pandas
+- Machine Learning
 - Scikit-learn
