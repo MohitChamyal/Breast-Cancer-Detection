@@ -9,13 +9,6 @@ The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, availa
 - Features: 30 real-valued features (e.g., radius, texture, perimeter, area)
 - Target: Diagnosis (0 = malignant, 1 = benign)
 
-## 🧠 Models Used
-
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-- Random Forest Classifier
-
 ## 🧪 Evaluation Metrics
 
 - Accuracy Score
