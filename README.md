@@ -1,4 +1,4 @@
-# Breast Cancer Detection🧬🔍
+# Breast Cancer Classification🧬🔍
 
 This project focuses on classifying breast cancer tumors as **benign** or **malignant** using machine learning techniques. It leverages the Breast Cancer Wisconsin dataset and applies various models to identify the most accurate approach.
 
