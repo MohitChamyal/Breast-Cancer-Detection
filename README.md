@@ -17,7 +17,7 @@ The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, availa
 
 ## 📈 Key Results
 
-After comparing the performance of all models, the **Random Forest Classifier** achieved the highest accuracy, making it the best-performing model for this dataset.
+After comparing the performance of all models, the **LogisticRegression** achieved the highest accuracy, making it the best-performing model for this dataset.
 
 ## 🛠️ Technologies Used
 
